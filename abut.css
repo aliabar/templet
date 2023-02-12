@@ -2,7 +2,7 @@
     width: 100% !important;
     overflow: hidden;
     padding: 100px 0;
-    background: #f6f6f6 url("/imges/breadcrumb.webp") no-repeat scroll center center/cover
+    background: #f6f6f6 url("./imges/breadcrumb.webp") no-repeat scroll center center/cover
 }
 
 .cawe ul{
